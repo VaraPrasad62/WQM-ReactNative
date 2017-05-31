@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>H25G6T5L8Q.com.ipro.IoTSampleApp</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>H25G6T5L8Q.com.ipro.IoTSampleApp</string>
+	</array>
+</dict>
+</plist>

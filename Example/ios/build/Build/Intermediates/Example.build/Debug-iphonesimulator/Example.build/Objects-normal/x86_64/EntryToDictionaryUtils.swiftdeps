@@ -1,0 +1,428 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EntryToDictionaryUtils"
+provides-nominal:
+- "C7Example22EntryToDictionaryUtils"
+provides-member:
+- ["C7Example22EntryToDictionaryUtils", ""]
+provides-dynamic-lookup:
+- "entryToDictionary"
+depends-top-level:
+- !private "!="
+- !private "=="
+- "AnyHashable"
+- "AssignmentPrecedence"
+- !private "BarChartDataEntry"
+- !private "BubbleChartDataEntry"
+- !private "CandleChartDataEntry"
+- "CastingPrecedence"
+- "ChartDataEntry"
+- "EntryToDictionaryUtils"
+- !private "JSON"
+- "NSObject"
+- !private "PieChartDataEntry"
+- !private "RadarChartDataEntry"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["Ps9AnyObject", "AnyHashable"]
+- !private ["Ps9AnyObject", "BarChartDataEntry"]
+- !private ["Ps9AnyObject", "BubbleChartDataEntry"]
+- !private ["Ps9AnyObject", "CandleChartDataEntry"]
+- !private ["Ps9AnyObject", "PieChartDataEntry"]
+- !private ["Ps9AnyObject", "RadarChartDataEntry"]
+- !private ["Ps9AnyObject", "close"]
+- !private ["Ps9AnyObject", "data"]
+- !private ["Ps9AnyObject", "high"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "label"]
+- !private ["Ps9AnyObject", "low"]
+- !private ["Ps9AnyObject", "open"]
+- !private ["Ps9AnyObject", "size"]
+- !private ["Ps9AnyObject", "value"]
+- !private ["Ps9AnyObject", "x"]
+- !private ["Ps9AnyObject", "y"]
+- !private ["Ps9AnyObject", "yValues"]
+- ["Ps9AnyObject", ""]
+- !private ["C6Charts17BarChartDataEntry", "x"]
+- !private ["C6Charts17BarChartDataEntry", "y"]
+- !private ["C6Charts17BarChartDataEntry", "yValues"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["C6Charts20BubbleChartDataEntry", "size"]
+- !private ["C6Charts20BubbleChartDataEntry", "x"]
+- !private ["C6Charts20BubbleChartDataEntry", "y"]
+- !private ["Ps7CVarArg", "AnyHashable"]
+- !private ["Ps7CVarArg", "BarChartDataEntry"]
+- !private ["Ps7CVarArg", "BubbleChartDataEntry"]
+- !private ["Ps7CVarArg", "CandleChartDataEntry"]
+- !private ["Ps7CVarArg", "PieChartDataEntry"]
+- !private ["Ps7CVarArg", "RadarChartDataEntry"]
+- !private ["Ps7CVarArg", "close"]
+- !private ["Ps7CVarArg", "data"]
+- !private ["Ps7CVarArg", "high"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "label"]
+- !private ["Ps7CVarArg", "low"]
+- !private ["Ps7CVarArg", "open"]
+- !private ["Ps7CVarArg", "size"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps7CVarArg", "value"]
+- !private ["Ps7CVarArg", "x"]
+- !private ["Ps7CVarArg", "y"]
+- !private ["Ps7CVarArg", "yValues"]
+- ["Ps7CVarArg", ""]
+- !private ["C6Charts20CandleChartDataEntry", "close"]
+- !private ["C6Charts20CandleChartDataEntry", "high"]
+- !private ["C6Charts20CandleChartDataEntry", "low"]
+- !private ["C6Charts20CandleChartDataEntry", "open"]
+- !private ["C6Charts20CandleChartDataEntry", "x"]
+- !private ["C6Charts14ChartDataEntry", "close"]
+- !private ["C6Charts14ChartDataEntry", "data"]
+- !private ["C6Charts14ChartDataEntry", "high"]
+- !private ["C6Charts14ChartDataEntry", "label"]
+- !private ["C6Charts14ChartDataEntry", "low"]
+- !private ["C6Charts14ChartDataEntry", "open"]
+- !private ["C6Charts14ChartDataEntry", "size"]
+- !private ["C6Charts14ChartDataEntry", "value"]
+- !private ["C6Charts14ChartDataEntry", "x"]
+- !private ["C6Charts14ChartDataEntry", "y"]
+- !private ["C6Charts14ChartDataEntry", "yValues"]
+- !private ["C6Charts18ChartDataEntryBase", "close"]
+- !private ["C6Charts18ChartDataEntryBase", "data"]
+- !private ["C6Charts18ChartDataEntryBase", "high"]
+- !private ["C6Charts18ChartDataEntryBase", "label"]
+- !private ["C6Charts18ChartDataEntryBase", "low"]
+- !private ["C6Charts18ChartDataEntryBase", "open"]
+- !private ["C6Charts18ChartDataEntryBase", "size"]
+- !private ["C6Charts18ChartDataEntryBase", "value"]
+- !private ["C6Charts18ChartDataEntryBase", "x"]
+- !private ["C6Charts18ChartDataEntryBase", "y"]
+- !private ["C6Charts18ChartDataEntryBase", "yValues"]
+- !private ["Ps10Collection", "dictionaryObject"]
+- !private ["Ps10Collection", "init"]
+- !private ["Ps10Collection", "subscript"]
+- !private ["Ps10Comparable", "dictionaryObject"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "AnyHashable"]
+- !private ["Ps28CustomDebugStringConvertible", "BarChartDataEntry"]
+- !private ["Ps28CustomDebugStringConvertible", "BubbleChartDataEntry"]
+- !private ["Ps28CustomDebugStringConvertible", "CandleChartDataEntry"]
+- !private ["Ps28CustomDebugStringConvertible", "PieChartDataEntry"]
+- !private ["Ps28CustomDebugStringConvertible", "RadarChartDataEntry"]
+- !private ["Ps28CustomDebugStringConvertible", "close"]
+- !private ["Ps28CustomDebugStringConvertible", "data"]
+- !private ["Ps28CustomDebugStringConvertible", "dictionaryObject"]
+- !private ["Ps28CustomDebugStringConvertible", "high"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "label"]
+- !private ["Ps28CustomDebugStringConvertible", "low"]
+- !private ["Ps28CustomDebugStringConvertible", "open"]
+- !private ["Ps28CustomDebugStringConvertible", "size"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps28CustomDebugStringConvertible", "value"]
+- !private ["Ps28CustomDebugStringConvertible", "x"]
+- !private ["Ps28CustomDebugStringConvertible", "y"]
+- !private ["Ps28CustomDebugStringConvertible", "yValues"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps23CustomStringConvertible", "AnyHashable"]
+- !private ["Ps23CustomStringConvertible", "BarChartDataEntry"]
+- !private ["Ps23CustomStringConvertible", "BubbleChartDataEntry"]
+- !private ["Ps23CustomStringConvertible", "CandleChartDataEntry"]
+- !private ["Ps23CustomStringConvertible", "PieChartDataEntry"]
+- !private ["Ps23CustomStringConvertible", "RadarChartDataEntry"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "close"]
+- !private ["Ps23CustomStringConvertible", "data"]
+- !private ["Ps23CustomStringConvertible", "dictionaryObject"]
+- !private ["Ps23CustomStringConvertible", "high"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "label"]
+- !private ["Ps23CustomStringConvertible", "low"]
+- !private ["Ps23CustomStringConvertible", "open"]
+- !private ["Ps23CustomStringConvertible", "size"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Ps23CustomStringConvertible", "value"]
+- !private ["Ps23CustomStringConvertible", "x"]
+- !private ["Ps23CustomStringConvertible", "y"]
+- !private ["Ps23CustomStringConvertible", "yValues"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Vs10Dictionary", "init"]
+- !private ["Vs10Dictionary", "subscript"]
+- ["C7Example22EntryToDictionaryUtils", "AnyHashable"]
+- !private ["C7Example22EntryToDictionaryUtils", "BarChartDataEntry"]
+- !private ["C7Example22EntryToDictionaryUtils", "BubbleChartDataEntry"]
+- !private ["C7Example22EntryToDictionaryUtils", "CandleChartDataEntry"]
+- ["C7Example22EntryToDictionaryUtils", "ChartDataEntry"]
+- !private ["C7Example22EntryToDictionaryUtils", "JSON"]
+- !private ["C7Example22EntryToDictionaryUtils", "PieChartDataEntry"]
+- !private ["C7Example22EntryToDictionaryUtils", "RadarChartDataEntry"]
+- ["C7Example22EntryToDictionaryUtils", "deinit"]
+- ["C7Example22EntryToDictionaryUtils", "entryToDictionary"]
+- ["C7Example22EntryToDictionaryUtils", "init"]
+- !private ["Ps9Equatable", "AnyHashable"]
+- !private ["Ps9Equatable", "BarChartDataEntry"]
+- !private ["Ps9Equatable", "BubbleChartDataEntry"]
+- !private ["Ps9Equatable", "CandleChartDataEntry"]
+- !private ["Ps9Equatable", "PieChartDataEntry"]
+- !private ["Ps9Equatable", "RadarChartDataEntry"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "close"]
+- !private ["Ps9Equatable", "data"]
+- !private ["Ps9Equatable", "dictionaryObject"]
+- !private ["Ps9Equatable", "high"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "label"]
+- !private ["Ps9Equatable", "low"]
+- !private ["Ps9Equatable", "open"]
+- !private ["Ps9Equatable", "size"]
+- !private ["Ps9Equatable", "value"]
+- !private ["Ps9Equatable", "x"]
+- !private ["Ps9Equatable", "y"]
+- !private ["Ps9Equatable", "yValues"]
+- ["Ps9Equatable", ""]
+- !private ["Ps25ExpressibleByArrayLiteral", "dictionaryObject"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "dictionaryObject"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "dictionaryObject"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "subscript"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "dictionaryObject"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "dictionaryObject"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "dictionaryObject"]
+- !private ["Ps23ExpressibleByNilLiteral", "dictionaryObject"]
+- !private ["Ps26ExpressibleByStringLiteral", "dictionaryObject"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "dictionaryObject"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "AnyHashable"]
+- !private ["Ps8Hashable", "BarChartDataEntry"]
+- !private ["Ps8Hashable", "BubbleChartDataEntry"]
+- !private ["Ps8Hashable", "CandleChartDataEntry"]
+- !private ["Ps8Hashable", "PieChartDataEntry"]
+- !private ["Ps8Hashable", "RadarChartDataEntry"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "close"]
+- !private ["Ps8Hashable", "data"]
+- !private ["Ps8Hashable", "high"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "label"]
+- !private ["Ps8Hashable", "low"]
+- !private ["Ps8Hashable", "open"]
+- !private ["Ps8Hashable", "size"]
+- !private ["Ps8Hashable", "value"]
+- !private ["Ps8Hashable", "x"]
+- !private ["Ps8Hashable", "y"]
+- !private ["Ps8Hashable", "yValues"]
+- ["Ps8Hashable", ""]
+- !private ["V10SwiftyJSON4JSON", "dictionaryObject"]
+- !private ["P10SwiftyJSON17JSONSubscriptType", "init"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AnyHashable"]
+- !private ["CSo8NSObject", "BarChartDataEntry"]
+- !private ["CSo8NSObject", "BubbleChartDataEntry"]
+- !private ["CSo8NSObject", "CandleChartDataEntry"]
+- ["CSo8NSObject", "ChartDataEntry"]
+- !private ["CSo8NSObject", "JSON"]
+- !private ["CSo8NSObject", "PieChartDataEntry"]
+- !private ["CSo8NSObject", "RadarChartDataEntry"]
+- !private ["CSo8NSObject", "close"]
+- !private ["CSo8NSObject", "data"]
+- ["CSo8NSObject", "entryToDictionary"]
+- !private ["CSo8NSObject", "high"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "label"]
+- !private ["CSo8NSObject", "low"]
+- !private ["CSo8NSObject", "open"]
+- !private ["CSo8NSObject", "size"]
+- !private ["CSo8NSObject", "value"]
+- !private ["CSo8NSObject", "x"]
+- !private ["CSo8NSObject", "y"]
+- !private ["CSo8NSObject", "yValues"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "AnyHashable"]
+- !private ["PSo16NSObjectProtocol", "BarChartDataEntry"]
+- !private ["PSo16NSObjectProtocol", "BubbleChartDataEntry"]
+- !private ["PSo16NSObjectProtocol", "CandleChartDataEntry"]
+- !private ["PSo16NSObjectProtocol", "PieChartDataEntry"]
+- !private ["PSo16NSObjectProtocol", "RadarChartDataEntry"]
+- !private ["PSo16NSObjectProtocol", "close"]
+- !private ["PSo16NSObjectProtocol", "data"]
+- !private ["PSo16NSObjectProtocol", "high"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "label"]
+- !private ["PSo16NSObjectProtocol", "low"]
+- !private ["PSo16NSObjectProtocol", "open"]
+- !private ["PSo16NSObjectProtocol", "size"]
+- !private ["PSo16NSObjectProtocol", "value"]
+- !private ["PSo16NSObjectProtocol", "x"]
+- !private ["PSo16NSObjectProtocol", "y"]
+- !private ["PSo16NSObjectProtocol", "yValues"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["C6Charts17PieChartDataEntry", "label"]
+- !private ["C6Charts17PieChartDataEntry", "value"]
+- !private ["C6Charts19RadarChartDataEntry", "value"]
+- !private ["Ps16RawRepresentable", "dictionaryObject"]
+- !private ["Ps8Sequence", "dictionaryObject"]
+- !private ["Ps8Sequence", "init"]
+- !private ["Ps8Sequence", "subscript"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "AnyHashable"]
+- !private ["Ps9_Hashable", "BarChartDataEntry"]
+- !private ["Ps9_Hashable", "BubbleChartDataEntry"]
+- !private ["Ps9_Hashable", "CandleChartDataEntry"]
+- !private ["Ps9_Hashable", "PieChartDataEntry"]
+- !private ["Ps9_Hashable", "RadarChartDataEntry"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "close"]
+- !private ["Ps9_Hashable", "data"]
+- !private ["Ps9_Hashable", "high"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "label"]
+- !private ["Ps9_Hashable", "low"]
+- !private ["Ps9_Hashable", "open"]
+- !private ["Ps9_Hashable", "size"]
+- !private ["Ps9_Hashable", "value"]
+- !private ["Ps9_Hashable", "x"]
+- !private ["Ps9_Hashable", "y"]
+- !private ["Ps9_Hashable", "yValues"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps10_Indexable", "dictionaryObject"]
+- !private ["Ps10_Indexable", "init"]
+- !private ["Ps10_Indexable", "subscript"]
+- !private ["Ps14_IndexableBase", "dictionaryObject"]
+- !private ["Ps14_IndexableBase", "init"]
+- !private ["Ps14_IndexableBase", "subscript"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "C6Charts17BarChartDataEntry"
+- !private "Sb"
+- !private "C6Charts20BubbleChartDataEntry"
+- "Ps7CVarArg"
+- !private "C6Charts20CandleChartDataEntry"
+- !private "C6Charts14ChartDataEntry"
+- !private "C6Charts18ChartDataEntryBase"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "Vs10Dictionary"
+- "C7Example22EntryToDictionaryUtils"
+- "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps23ExpressibleByNilLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "V10SwiftyJSON4JSON"
+- !private "P10SwiftyJSON17JSONSubscriptType"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "C6Charts17PieChartDataEntry"
+- !private "C6Charts19RadarChartDataEntry"
+- !private "Ps16RawRepresentable"
+- !private "Ps8Sequence"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Modules/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Headers/Charts-umbrella.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/Example-Bridging-Header.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Headers/Charts-Swift.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Modules/module.modulemap"
+interface-hash: "0c2ea55c6ac6211b6c736f4cce0d66ef"

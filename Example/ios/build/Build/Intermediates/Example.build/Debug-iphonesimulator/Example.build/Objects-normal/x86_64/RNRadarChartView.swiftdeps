@@ -1,0 +1,535 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RNRadarChartView"
+provides-nominal:
+- "C7Example16RNRadarChartView"
+provides-member:
+- ["C7Example16RNRadarChartView", ""]
+provides-dynamic-lookup:
+- "_chart"
+- "chart"
+- "setRotationEnabled"
+- "setSkipWebLineCount"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- "CoreGraphics"
+- "DataExtract"
+- "Int"
+- "NSCoder"
+- "RNRadarChartView"
+- "RNYAxisChartViewBase"
+- "RadarChartView"
+- "RadarDataExtract"
+- !private "StringLiteralType"
+- !private "fatalError"
+depends-member:
+- !private ["P6Charts16AnimatorDelegate", "delegate"]
+- !private ["P6Charts16AnimatorDelegate", "init"]
+- !private ["P6Charts16AnimatorDelegate", "rotationEnabled"]
+- !private ["P6Charts16AnimatorDelegate", "skipWebLineCount"]
+- !private ["Ps9AnyObject", "RadarChartView"]
+- !private ["Ps9AnyObject", "RadarDataExtract"]
+- !private ["Ps9AnyObject", "_chart"]
+- !private ["Ps9AnyObject", "_dataExtract"]
+- !private ["Ps9AnyObject", "addSubview"]
+- !private ["Ps9AnyObject", "delegate"]
+- !private ["Ps9AnyObject", "fatalError"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "rotationEnabled"]
+- !private ["Ps9AnyObject", "skipWebLineCount"]
+- ["Ps9AnyObject", ""]
+- !private ["PSo15CALayerDelegate", "RadarChartView"]
+- !private ["PSo15CALayerDelegate", "RadarDataExtract"]
+- !private ["PSo15CALayerDelegate", "_chart"]
+- !private ["PSo15CALayerDelegate", "_dataExtract"]
+- !private ["PSo15CALayerDelegate", "addSubview"]
+- !private ["PSo15CALayerDelegate", "delegate"]
+- !private ["PSo15CALayerDelegate", "fatalError"]
+- !private ["PSo15CALayerDelegate", "init"]
+- !private ["PSo15CALayerDelegate", "rotationEnabled"]
+- !private ["PSo15CALayerDelegate", "skipWebLineCount"]
+- ["PSo15CALayerDelegate", ""]
+- !private ["Ps7CVarArg", "RadarChartView"]
+- !private ["Ps7CVarArg", "RadarDataExtract"]
+- !private ["Ps7CVarArg", "_chart"]
+- !private ["Ps7CVarArg", "_dataExtract"]
+- !private ["Ps7CVarArg", "addSubview"]
+- !private ["Ps7CVarArg", "delegate"]
+- !private ["Ps7CVarArg", "fatalError"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "rotationEnabled"]
+- !private ["Ps7CVarArg", "skipWebLineCount"]
+- ["Ps7CVarArg", ""]
+- !private ["P6Charts17ChartDataProvider", "delegate"]
+- !private ["P6Charts17ChartDataProvider", "init"]
+- !private ["P6Charts17ChartDataProvider", "rotationEnabled"]
+- !private ["P6Charts17ChartDataProvider", "skipWebLineCount"]
+- !private ["C6Charts13ChartViewBase", "delegate"]
+- !private ["C6Charts13ChartViewBase", "init"]
+- !private ["C6Charts13ChartViewBase", "rotationEnabled"]
+- !private ["C6Charts13ChartViewBase", "skipWebLineCount"]
+- !private ["P6Charts17ChartViewDelegate", "RadarChartView"]
+- !private ["P6Charts17ChartViewDelegate", "RadarDataExtract"]
+- !private ["P6Charts17ChartViewDelegate", "_chart"]
+- !private ["P6Charts17ChartViewDelegate", "_dataExtract"]
+- !private ["P6Charts17ChartViewDelegate", "addSubview"]
+- !private ["P6Charts17ChartViewDelegate", "fatalError"]
+- !private ["P6Charts17ChartViewDelegate", "init"]
+- ["P6Charts17ChartViewDelegate", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "RadarChartView"]
+- !private ["Ps28CustomDebugStringConvertible", "RadarDataExtract"]
+- !private ["Ps28CustomDebugStringConvertible", "_chart"]
+- !private ["Ps28CustomDebugStringConvertible", "_dataExtract"]
+- !private ["Ps28CustomDebugStringConvertible", "addSubview"]
+- !private ["Ps28CustomDebugStringConvertible", "delegate"]
+- !private ["Ps28CustomDebugStringConvertible", "fatalError"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "rotationEnabled"]
+- !private ["Ps28CustomDebugStringConvertible", "skipWebLineCount"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "RadarChartView"]
+- !private ["Ps23CustomStringConvertible", "RadarDataExtract"]
+- !private ["Ps23CustomStringConvertible", "_chart"]
+- !private ["Ps23CustomStringConvertible", "_dataExtract"]
+- !private ["Ps23CustomStringConvertible", "addSubview"]
+- !private ["Ps23CustomStringConvertible", "delegate"]
+- !private ["Ps23CustomStringConvertible", "fatalError"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "rotationEnabled"]
+- !private ["Ps23CustomStringConvertible", "skipWebLineCount"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["C7Example11DataExtract", "init"]
+- !private ["Ps9Equatable", "RadarChartView"]
+- !private ["Ps9Equatable", "RadarDataExtract"]
+- !private ["Ps9Equatable", "_chart"]
+- !private ["Ps9Equatable", "_dataExtract"]
+- !private ["Ps9Equatable", "addSubview"]
+- !private ["Ps9Equatable", "delegate"]
+- !private ["Ps9Equatable", "fatalError"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "rotationEnabled"]
+- !private ["Ps9Equatable", "skipWebLineCount"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "RadarChartView"]
+- !private ["Ps8Hashable", "RadarDataExtract"]
+- !private ["Ps8Hashable", "_chart"]
+- !private ["Ps8Hashable", "_dataExtract"]
+- !private ["Ps8Hashable", "addSubview"]
+- !private ["Ps8Hashable", "delegate"]
+- !private ["Ps8Hashable", "fatalError"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "rotationEnabled"]
+- !private ["Ps8Hashable", "skipWebLineCount"]
+- ["Ps8Hashable", ""]
+- !private ["P10SwiftyJSON17JSONSubscriptType", "init"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "RadarChartView"]
+- !private ["PSo8NSCoding", "RadarDataExtract"]
+- !private ["PSo8NSCoding", "_chart"]
+- !private ["PSo8NSCoding", "_dataExtract"]
+- !private ["PSo8NSCoding", "addSubview"]
+- !private ["PSo8NSCoding", "delegate"]
+- !private ["PSo8NSCoding", "fatalError"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "rotationEnabled"]
+- !private ["PSo8NSCoding", "skipWebLineCount"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "CoreGraphics"]
+- ["CSo8NSObject", "DataExtract"]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "NSCoder"]
+- ["CSo8NSObject", "RadarChartView"]
+- ["CSo8NSObject", "RadarDataExtract"]
+- ["CSo8NSObject", "_chart"]
+- ["CSo8NSObject", "_dataExtract"]
+- !private ["CSo8NSObject", "addSubview"]
+- ["CSo8NSObject", "chart"]
+- ["CSo8NSObject", "dataExtract"]
+- !private ["CSo8NSObject", "delegate"]
+- !private ["CSo8NSObject", "fatalError"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "rotationEnabled"]
+- ["CSo8NSObject", "setRotationEnabled"]
+- ["CSo8NSObject", "setSkipWebLineCount"]
+- !private ["CSo8NSObject", "skipWebLineCount"]
+- !private ["PSo16NSObjectProtocol", "RadarChartView"]
+- !private ["PSo16NSObjectProtocol", "RadarDataExtract"]
+- !private ["PSo16NSObjectProtocol", "_chart"]
+- !private ["PSo16NSObjectProtocol", "_dataExtract"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- !private ["PSo16NSObjectProtocol", "delegate"]
+- !private ["PSo16NSObjectProtocol", "fatalError"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "rotationEnabled"]
+- !private ["PSo16NSObjectProtocol", "skipWebLineCount"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["C6Charts8NSUIView", "delegate"]
+- !private ["C6Charts8NSUIView", "init"]
+- !private ["C6Charts8NSUIView", "rotationEnabled"]
+- !private ["C6Charts8NSUIView", "skipWebLineCount"]
+- !private ["C6Charts21PieRadarChartViewBase", "delegate"]
+- !private ["C6Charts21PieRadarChartViewBase", "init"]
+- !private ["C6Charts21PieRadarChartViewBase", "rotationEnabled"]
+- !private ["C6Charts21PieRadarChartViewBase", "skipWebLineCount"]
+- !private ["PSo12RCTComponent", "RadarChartView"]
+- !private ["PSo12RCTComponent", "RadarDataExtract"]
+- !private ["PSo12RCTComponent", "_chart"]
+- !private ["PSo12RCTComponent", "_dataExtract"]
+- !private ["PSo12RCTComponent", "addSubview"]
+- !private ["PSo12RCTComponent", "delegate"]
+- !private ["PSo12RCTComponent", "fatalError"]
+- !private ["PSo12RCTComponent", "init"]
+- !private ["PSo12RCTComponent", "rotationEnabled"]
+- !private ["PSo12RCTComponent", "skipWebLineCount"]
+- ["PSo12RCTComponent", ""]
+- ["C7Example15RNChartViewBase", "Bool"]
+- ["C7Example15RNChartViewBase", "CoreGraphics"]
+- ["C7Example15RNChartViewBase", "DataExtract"]
+- ["C7Example15RNChartViewBase", "Int"]
+- ["C7Example15RNChartViewBase", "NSCoder"]
+- ["C7Example15RNChartViewBase", "RadarChartView"]
+- ["C7Example15RNChartViewBase", "RadarDataExtract"]
+- ["C7Example15RNChartViewBase", "_chart"]
+- ["C7Example15RNChartViewBase", "_dataExtract"]
+- !private ["C7Example15RNChartViewBase", "addSubview"]
+- ["C7Example15RNChartViewBase", "chart"]
+- ["C7Example15RNChartViewBase", "dataExtract"]
+- !private ["C7Example15RNChartViewBase", "fatalError"]
+- ["C7Example15RNChartViewBase", "init"]
+- ["C7Example15RNChartViewBase", "setRotationEnabled"]
+- ["C7Example15RNChartViewBase", "setSkipWebLineCount"]
+- ["C7Example16RNRadarChartView", "Bool"]
+- ["C7Example16RNRadarChartView", "CoreGraphics"]
+- ["C7Example16RNRadarChartView", "DataExtract"]
+- ["C7Example16RNRadarChartView", "Int"]
+- ["C7Example16RNRadarChartView", "NSCoder"]
+- ["C7Example16RNRadarChartView", "RadarChartView"]
+- ["C7Example16RNRadarChartView", "RadarDataExtract"]
+- ["C7Example16RNRadarChartView", "_chart"]
+- ["C7Example16RNRadarChartView", "_dataExtract"]
+- !private ["C7Example16RNRadarChartView", "addSubview"]
+- ["C7Example16RNRadarChartView", "chart"]
+- ["C7Example16RNRadarChartView", "dataExtract"]
+- ["C7Example16RNRadarChartView", "deinit"]
+- !private ["C7Example16RNRadarChartView", "fatalError"]
+- ["C7Example16RNRadarChartView", "init"]
+- ["C7Example16RNRadarChartView", "setRotationEnabled"]
+- ["C7Example16RNRadarChartView", "setSkipWebLineCount"]
+- ["C7Example20RNYAxisChartViewBase", "Bool"]
+- ["C7Example20RNYAxisChartViewBase", "CoreGraphics"]
+- ["C7Example20RNYAxisChartViewBase", "DataExtract"]
+- ["C7Example20RNYAxisChartViewBase", "Int"]
+- ["C7Example20RNYAxisChartViewBase", "NSCoder"]
+- ["C7Example20RNYAxisChartViewBase", "RadarChartView"]
+- ["C7Example20RNYAxisChartViewBase", "RadarDataExtract"]
+- ["C7Example20RNYAxisChartViewBase", "_chart"]
+- ["C7Example20RNYAxisChartViewBase", "_dataExtract"]
+- !private ["C7Example20RNYAxisChartViewBase", "addSubview"]
+- ["C7Example20RNYAxisChartViewBase", "chart"]
+- ["C7Example20RNYAxisChartViewBase", "dataExtract"]
+- !private ["C7Example20RNYAxisChartViewBase", "fatalError"]
+- ["C7Example20RNYAxisChartViewBase", "init"]
+- ["C7Example20RNYAxisChartViewBase", "setRotationEnabled"]
+- ["C7Example20RNYAxisChartViewBase", "setSkipWebLineCount"]
+- ["C7Example20RNYAxisChartViewBase", ""]
+- !private ["C6Charts14RadarChartView", "delegate"]
+- !private ["C6Charts14RadarChartView", "init"]
+- !private ["C6Charts14RadarChartView", "rotationEnabled"]
+- !private ["C6Charts14RadarChartView", "skipWebLineCount"]
+- !private ["C7Example16RadarDataExtract", "init"]
+- !private ["Vs12StaticString", "init"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "RadarChartView"]
+- !private ["PSo29UIAccessibilityIdentification", "RadarDataExtract"]
+- !private ["PSo29UIAccessibilityIdentification", "_chart"]
+- !private ["PSo29UIAccessibilityIdentification", "_dataExtract"]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "delegate"]
+- !private ["PSo29UIAccessibilityIdentification", "fatalError"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "rotationEnabled"]
+- !private ["PSo29UIAccessibilityIdentification", "skipWebLineCount"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "RadarChartView"]
+- !private ["PSo12UIAppearance", "RadarDataExtract"]
+- !private ["PSo12UIAppearance", "_chart"]
+- !private ["PSo12UIAppearance", "_dataExtract"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "delegate"]
+- !private ["PSo12UIAppearance", "fatalError"]
+- !private ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "rotationEnabled"]
+- !private ["PSo12UIAppearance", "skipWebLineCount"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "RadarChartView"]
+- !private ["PSo21UIAppearanceContainer", "RadarDataExtract"]
+- !private ["PSo21UIAppearanceContainer", "_chart"]
+- !private ["PSo21UIAppearanceContainer", "_dataExtract"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- !private ["PSo21UIAppearanceContainer", "delegate"]
+- !private ["PSo21UIAppearanceContainer", "fatalError"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "rotationEnabled"]
+- !private ["PSo21UIAppearanceContainer", "skipWebLineCount"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo17UICoordinateSpace", "RadarChartView"]
+- !private ["PSo17UICoordinateSpace", "RadarDataExtract"]
+- !private ["PSo17UICoordinateSpace", "_chart"]
+- !private ["PSo17UICoordinateSpace", "_dataExtract"]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "delegate"]
+- !private ["PSo17UICoordinateSpace", "fatalError"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "rotationEnabled"]
+- !private ["PSo17UICoordinateSpace", "skipWebLineCount"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "RadarChartView"]
+- !private ["PSo13UIDynamicItem", "RadarDataExtract"]
+- !private ["PSo13UIDynamicItem", "_chart"]
+- !private ["PSo13UIDynamicItem", "_dataExtract"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "delegate"]
+- !private ["PSo13UIDynamicItem", "fatalError"]
+- !private ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "rotationEnabled"]
+- !private ["PSo13UIDynamicItem", "skipWebLineCount"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "RadarChartView"]
+- !private ["PSo18UIFocusEnvironment", "RadarDataExtract"]
+- !private ["PSo18UIFocusEnvironment", "_chart"]
+- !private ["PSo18UIFocusEnvironment", "_dataExtract"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- !private ["PSo18UIFocusEnvironment", "delegate"]
+- !private ["PSo18UIFocusEnvironment", "fatalError"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "rotationEnabled"]
+- !private ["PSo18UIFocusEnvironment", "skipWebLineCount"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "RadarChartView"]
+- !private ["PSo11UIFocusItem", "RadarDataExtract"]
+- !private ["PSo11UIFocusItem", "_chart"]
+- !private ["PSo11UIFocusItem", "_dataExtract"]
+- !private ["PSo11UIFocusItem", "addSubview"]
+- !private ["PSo11UIFocusItem", "delegate"]
+- !private ["PSo11UIFocusItem", "fatalError"]
+- !private ["PSo11UIFocusItem", "init"]
+- !private ["PSo11UIFocusItem", "rotationEnabled"]
+- !private ["PSo11UIFocusItem", "skipWebLineCount"]
+- ["PSo11UIFocusItem", ""]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "CoreGraphics"]
+- ["CSo11UIResponder", "DataExtract"]
+- ["CSo11UIResponder", "Int"]
+- ["CSo11UIResponder", "NSCoder"]
+- ["CSo11UIResponder", "RadarChartView"]
+- ["CSo11UIResponder", "RadarDataExtract"]
+- ["CSo11UIResponder", "_chart"]
+- ["CSo11UIResponder", "_dataExtract"]
+- !private ["CSo11UIResponder", "addSubview"]
+- ["CSo11UIResponder", "chart"]
+- ["CSo11UIResponder", "dataExtract"]
+- !private ["CSo11UIResponder", "delegate"]
+- !private ["CSo11UIResponder", "fatalError"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "rotationEnabled"]
+- ["CSo11UIResponder", "setRotationEnabled"]
+- ["CSo11UIResponder", "setSkipWebLineCount"]
+- !private ["CSo11UIResponder", "skipWebLineCount"]
+- !private ["PSo30UIResponderStandardEditActions", "RadarChartView"]
+- !private ["PSo30UIResponderStandardEditActions", "RadarDataExtract"]
+- !private ["PSo30UIResponderStandardEditActions", "_chart"]
+- !private ["PSo30UIResponderStandardEditActions", "_dataExtract"]
+- !private ["PSo30UIResponderStandardEditActions", "addSubview"]
+- !private ["PSo30UIResponderStandardEditActions", "delegate"]
+- !private ["PSo30UIResponderStandardEditActions", "fatalError"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "rotationEnabled"]
+- !private ["PSo30UIResponderStandardEditActions", "skipWebLineCount"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo18UITraitEnvironment", "RadarChartView"]
+- !private ["PSo18UITraitEnvironment", "RadarDataExtract"]
+- !private ["PSo18UITraitEnvironment", "_chart"]
+- !private ["PSo18UITraitEnvironment", "_dataExtract"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- !private ["PSo18UITraitEnvironment", "delegate"]
+- !private ["PSo18UITraitEnvironment", "fatalError"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "rotationEnabled"]
+- !private ["PSo18UITraitEnvironment", "skipWebLineCount"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "CoreGraphics"]
+- ["CSo6UIView", "DataExtract"]
+- ["CSo6UIView", "Int"]
+- ["CSo6UIView", "NSCoder"]
+- ["CSo6UIView", "RadarChartView"]
+- ["CSo6UIView", "RadarDataExtract"]
+- ["CSo6UIView", "_chart"]
+- ["CSo6UIView", "_dataExtract"]
+- !private ["CSo6UIView", "addSubview"]
+- ["CSo6UIView", "chart"]
+- ["CSo6UIView", "dataExtract"]
+- !private ["CSo6UIView", "delegate"]
+- !private ["CSo6UIView", "fatalError"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "rotationEnabled"]
+- ["CSo6UIView", "setRotationEnabled"]
+- ["CSo6UIView", "setSkipWebLineCount"]
+- !private ["CSo6UIView", "skipWebLineCount"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "RadarChartView"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "RadarDataExtract"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "_chart"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "_dataExtract"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "addSubview"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "delegate"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "fatalError"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "rotationEnabled"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "skipWebLineCount"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "RadarChartView"]
+- !private ["Ps9_Hashable", "RadarDataExtract"]
+- !private ["Ps9_Hashable", "_chart"]
+- !private ["Ps9_Hashable", "_dataExtract"]
+- !private ["Ps9_Hashable", "addSubview"]
+- !private ["Ps9_Hashable", "delegate"]
+- !private ["Ps9_Hashable", "fatalError"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "rotationEnabled"]
+- !private ["Ps9_Hashable", "skipWebLineCount"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- !private "P6Charts16AnimatorDelegate"
+- "Ps9AnyObject"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "P6Charts17ChartDataProvider"
+- !private "C6Charts13ChartViewBase"
+- "P6Charts17ChartViewDelegate"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "C7Example11DataExtract"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "P10SwiftyJSON17JSONSubscriptType"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "C6Charts8NSUIView"
+- !private "C6Charts21PieRadarChartViewBase"
+- "PSo12RCTComponent"
+- "C7Example15RNChartViewBase"
+- "C7Example16RNRadarChartView"
+- "C7Example20RNYAxisChartViewBase"
+- !private "C6Charts14RadarChartView"
+- !private "C7Example16RadarDataExtract"
+- !private "Vs12StaticString"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Modules/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Headers/Charts-umbrella.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/Example-Bridging-Header.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Headers/Charts-Swift.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Modules/module.modulemap"
+interface-hash: "437723e0901313268e067eb9999ab046"

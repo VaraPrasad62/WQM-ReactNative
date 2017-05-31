@@ -1,0 +1,314 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RNBarChartViewBase"
+provides-nominal:
+- "C7Example18RNBarChartViewBase"
+provides-member:
+- ["C7Example18RNBarChartViewBase", ""]
+provides-dynamic-lookup:
+- "setDrawBarShadow"
+- "setDrawValueAboveBar"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BarChartView"
+- "Bool"
+- !private "CastingPrecedence"
+- "RNBarChartViewBase"
+- "RNBarLineChartViewBase"
+depends-member:
+- !private ["P6Charts16AnimatorDelegate", "drawBarShadowEnabled"]
+- !private ["P6Charts16AnimatorDelegate", "drawValueAboveBarEnabled"]
+- !private ["Ps9AnyObject", "barChart"]
+- !private ["Ps9AnyObject", "chart"]
+- !private ["Ps9AnyObject", "drawBarShadowEnabled"]
+- !private ["Ps9AnyObject", "drawValueAboveBarEnabled"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", ""]
+- !private ["P6Charts20BarChartDataProvider", "drawBarShadowEnabled"]
+- !private ["P6Charts20BarChartDataProvider", "drawValueAboveBarEnabled"]
+- !private ["C6Charts12BarChartView", "drawBarShadowEnabled"]
+- !private ["C6Charts12BarChartView", "drawValueAboveBarEnabled"]
+- !private ["C6Charts20BarLineChartViewBase", "drawBarShadowEnabled"]
+- !private ["C6Charts20BarLineChartViewBase", "drawValueAboveBarEnabled"]
+- !private ["P6Charts43BarLineScatterCandleBubbleChartDataProvider", "drawBarShadowEnabled"]
+- !private ["P6Charts43BarLineScatterCandleBubbleChartDataProvider", "drawValueAboveBarEnabled"]
+- !private ["PSo15CALayerDelegate", "barChart"]
+- !private ["PSo15CALayerDelegate", "chart"]
+- !private ["PSo15CALayerDelegate", "drawBarShadowEnabled"]
+- !private ["PSo15CALayerDelegate", "drawValueAboveBarEnabled"]
+- !private ["PSo15CALayerDelegate", "init"]
+- ["PSo15CALayerDelegate", ""]
+- !private ["Ps7CVarArg", "barChart"]
+- !private ["Ps7CVarArg", "chart"]
+- !private ["Ps7CVarArg", "drawBarShadowEnabled"]
+- !private ["Ps7CVarArg", "drawValueAboveBarEnabled"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", ""]
+- !private ["P6Charts17ChartDataProvider", "drawBarShadowEnabled"]
+- !private ["P6Charts17ChartDataProvider", "drawValueAboveBarEnabled"]
+- !private ["C6Charts13ChartViewBase", "drawBarShadowEnabled"]
+- !private ["C6Charts13ChartViewBase", "drawValueAboveBarEnabled"]
+- !private ["P6Charts17ChartViewDelegate", "barChart"]
+- !private ["P6Charts17ChartViewDelegate", "chart"]
+- !private ["P6Charts17ChartViewDelegate", "init"]
+- ["P6Charts17ChartViewDelegate", ""]
+- !private ["Ps28CustomDebugStringConvertible", "barChart"]
+- !private ["Ps28CustomDebugStringConvertible", "chart"]
+- !private ["Ps28CustomDebugStringConvertible", "drawBarShadowEnabled"]
+- !private ["Ps28CustomDebugStringConvertible", "drawValueAboveBarEnabled"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "barChart"]
+- !private ["Ps23CustomStringConvertible", "chart"]
+- !private ["Ps23CustomStringConvertible", "drawBarShadowEnabled"]
+- !private ["Ps23CustomStringConvertible", "drawValueAboveBarEnabled"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "barChart"]
+- !private ["Ps9Equatable", "chart"]
+- !private ["Ps9Equatable", "drawBarShadowEnabled"]
+- !private ["Ps9Equatable", "drawValueAboveBarEnabled"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "barChart"]
+- !private ["Ps8Hashable", "chart"]
+- !private ["Ps8Hashable", "drawBarShadowEnabled"]
+- !private ["Ps8Hashable", "drawValueAboveBarEnabled"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", ""]
+- !private ["PSo8NSCoding", "barChart"]
+- !private ["PSo8NSCoding", "chart"]
+- !private ["PSo8NSCoding", "drawBarShadowEnabled"]
+- !private ["PSo8NSCoding", "drawValueAboveBarEnabled"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "BarChartView"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "barChart"]
+- !private ["CSo8NSObject", "chart"]
+- !private ["CSo8NSObject", "drawBarShadowEnabled"]
+- !private ["CSo8NSObject", "drawValueAboveBarEnabled"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "setDrawBarShadow"]
+- ["CSo8NSObject", "setDrawValueAboveBar"]
+- !private ["PSo16NSObjectProtocol", "barChart"]
+- !private ["PSo16NSObjectProtocol", "chart"]
+- !private ["PSo16NSObjectProtocol", "drawBarShadowEnabled"]
+- !private ["PSo16NSObjectProtocol", "drawValueAboveBarEnabled"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["C6Charts8NSUIView", "drawBarShadowEnabled"]
+- !private ["C6Charts8NSUIView", "drawValueAboveBarEnabled"]
+- !private ["PSo12RCTComponent", "barChart"]
+- !private ["PSo12RCTComponent", "chart"]
+- !private ["PSo12RCTComponent", "drawBarShadowEnabled"]
+- !private ["PSo12RCTComponent", "drawValueAboveBarEnabled"]
+- !private ["PSo12RCTComponent", "init"]
+- ["PSo12RCTComponent", ""]
+- ["C7Example18RNBarChartViewBase", "BarChartView"]
+- ["C7Example18RNBarChartViewBase", "Bool"]
+- !private ["C7Example18RNBarChartViewBase", "barChart"]
+- !private ["C7Example18RNBarChartViewBase", "chart"]
+- ["C7Example18RNBarChartViewBase", "deinit"]
+- ["C7Example18RNBarChartViewBase", "init"]
+- ["C7Example18RNBarChartViewBase", "setDrawBarShadow"]
+- ["C7Example18RNBarChartViewBase", "setDrawValueAboveBar"]
+- ["C7Example22RNBarLineChartViewBase", "BarChartView"]
+- ["C7Example22RNBarLineChartViewBase", "Bool"]
+- ["C7Example22RNBarLineChartViewBase", "barChart"]
+- !private ["C7Example22RNBarLineChartViewBase", "chart"]
+- ["C7Example22RNBarLineChartViewBase", "init"]
+- ["C7Example22RNBarLineChartViewBase", "setDrawBarShadow"]
+- ["C7Example22RNBarLineChartViewBase", "setDrawValueAboveBar"]
+- ["C7Example22RNBarLineChartViewBase", ""]
+- ["C7Example15RNChartViewBase", "BarChartView"]
+- ["C7Example15RNChartViewBase", "Bool"]
+- ["C7Example15RNChartViewBase", "barChart"]
+- !private ["C7Example15RNChartViewBase", "chart"]
+- ["C7Example15RNChartViewBase", "init"]
+- ["C7Example15RNChartViewBase", "setDrawBarShadow"]
+- ["C7Example15RNChartViewBase", "setDrawValueAboveBar"]
+- ["C7Example20RNYAxisChartViewBase", "BarChartView"]
+- ["C7Example20RNYAxisChartViewBase", "Bool"]
+- ["C7Example20RNYAxisChartViewBase", "barChart"]
+- !private ["C7Example20RNYAxisChartViewBase", "chart"]
+- ["C7Example20RNYAxisChartViewBase", "init"]
+- ["C7Example20RNYAxisChartViewBase", "setDrawBarShadow"]
+- ["C7Example20RNYAxisChartViewBase", "setDrawValueAboveBar"]
+- !private ["PSo29UIAccessibilityIdentification", "barChart"]
+- !private ["PSo29UIAccessibilityIdentification", "chart"]
+- !private ["PSo29UIAccessibilityIdentification", "drawBarShadowEnabled"]
+- !private ["PSo29UIAccessibilityIdentification", "drawValueAboveBarEnabled"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "barChart"]
+- !private ["PSo12UIAppearance", "chart"]
+- !private ["PSo12UIAppearance", "drawBarShadowEnabled"]
+- !private ["PSo12UIAppearance", "drawValueAboveBarEnabled"]
+- !private ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "barChart"]
+- !private ["PSo21UIAppearanceContainer", "chart"]
+- !private ["PSo21UIAppearanceContainer", "drawBarShadowEnabled"]
+- !private ["PSo21UIAppearanceContainer", "drawValueAboveBarEnabled"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo17UICoordinateSpace", "barChart"]
+- !private ["PSo17UICoordinateSpace", "chart"]
+- !private ["PSo17UICoordinateSpace", "drawBarShadowEnabled"]
+- !private ["PSo17UICoordinateSpace", "drawValueAboveBarEnabled"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "barChart"]
+- !private ["PSo13UIDynamicItem", "chart"]
+- !private ["PSo13UIDynamicItem", "drawBarShadowEnabled"]
+- !private ["PSo13UIDynamicItem", "drawValueAboveBarEnabled"]
+- !private ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "barChart"]
+- !private ["PSo18UIFocusEnvironment", "chart"]
+- !private ["PSo18UIFocusEnvironment", "drawBarShadowEnabled"]
+- !private ["PSo18UIFocusEnvironment", "drawValueAboveBarEnabled"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "barChart"]
+- !private ["PSo11UIFocusItem", "chart"]
+- !private ["PSo11UIFocusItem", "drawBarShadowEnabled"]
+- !private ["PSo11UIFocusItem", "drawValueAboveBarEnabled"]
+- !private ["PSo11UIFocusItem", "init"]
+- ["PSo11UIFocusItem", ""]
+- !private ["PSo27UIGestureRecognizerDelegate", "drawBarShadowEnabled"]
+- !private ["PSo27UIGestureRecognizerDelegate", "drawValueAboveBarEnabled"]
+- ["CSo11UIResponder", "BarChartView"]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "barChart"]
+- !private ["CSo11UIResponder", "chart"]
+- !private ["CSo11UIResponder", "drawBarShadowEnabled"]
+- !private ["CSo11UIResponder", "drawValueAboveBarEnabled"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "setDrawBarShadow"]
+- ["CSo11UIResponder", "setDrawValueAboveBar"]
+- !private ["PSo30UIResponderStandardEditActions", "barChart"]
+- !private ["PSo30UIResponderStandardEditActions", "chart"]
+- !private ["PSo30UIResponderStandardEditActions", "drawBarShadowEnabled"]
+- !private ["PSo30UIResponderStandardEditActions", "drawValueAboveBarEnabled"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo18UITraitEnvironment", "barChart"]
+- !private ["PSo18UITraitEnvironment", "chart"]
+- !private ["PSo18UITraitEnvironment", "drawBarShadowEnabled"]
+- !private ["PSo18UITraitEnvironment", "drawValueAboveBarEnabled"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "BarChartView"]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "barChart"]
+- !private ["CSo6UIView", "chart"]
+- !private ["CSo6UIView", "drawBarShadowEnabled"]
+- !private ["CSo6UIView", "drawValueAboveBarEnabled"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "setDrawBarShadow"]
+- ["CSo6UIView", "setDrawValueAboveBar"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "barChart"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "chart"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "drawBarShadowEnabled"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "drawValueAboveBarEnabled"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- !private ["Ps9_Hashable", "barChart"]
+- !private ["Ps9_Hashable", "chart"]
+- !private ["Ps9_Hashable", "drawBarShadowEnabled"]
+- !private ["Ps9_Hashable", "drawValueAboveBarEnabled"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- !private "P6Charts16AnimatorDelegate"
+- "Ps9AnyObject"
+- !private "P6Charts20BarChartDataProvider"
+- !private "C6Charts12BarChartView"
+- !private "C6Charts20BarLineChartViewBase"
+- !private "P6Charts43BarLineScatterCandleBubbleChartDataProvider"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "P6Charts17ChartDataProvider"
+- !private "C6Charts13ChartViewBase"
+- "P6Charts17ChartViewDelegate"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "C6Charts8NSUIView"
+- "PSo12RCTComponent"
+- "C7Example18RNBarChartViewBase"
+- "C7Example22RNBarLineChartViewBase"
+- "C7Example15RNChartViewBase"
+- "C7Example20RNYAxisChartViewBase"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- !private "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Modules/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Headers/Charts-umbrella.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/Example-Bridging-Header.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Headers/Charts-Swift.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/varaprasadp/Desktop/React/Example/ios/build/Build/Products/Debug-iphonesimulator/Charts/Charts.framework/Modules/module.modulemap"
+interface-hash: "cb29db478d5e4b586acef59fb3ec601e"
