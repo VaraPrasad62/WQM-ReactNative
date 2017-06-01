@@ -1,4 +1,4 @@
-React Native Installation Steps:
+React Native Installation Steps :
 
 Step 1 - Install Homebrew
 Open your terminal and run the following code −
