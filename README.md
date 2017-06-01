@@ -1,3 +1,40 @@
+React Native Installation Steps:
+
+Step 1 - Install Homebrew
+Open your terminal and run the following code −
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+Step 2 - Install Watchman
+brew install watchman
+
+Step 3 - Install React Native
+npm install -g react-native-cli
+
+Step 4 Android - Install Visual Studio
+You can install Android studio by following this link.
+
+Step 4 IOS - Install XCode
+For IOS development you will need XCode.
+
+Step 5 - Create First App
+We will initialize our first app by running the code below in terminal from the folder where we want to create the app (in our case Desktop).
+
+react-native init reactTutorialApp
+
+Step 6 - Run React Native Packager
+First we need to open the app folder in terminal.
+
+cd reactTutorialApp
+Now we can run the packager.
+
+react-native start
+You should keep this terminal window running while developing your app.
+
+Step 7 - Run the App on IOS simulator
+This step will open your app in IOS simulator. Run the following command in another terminal.
+
+
 # React Native Charts Wrapper
 This library is React Native wrapper of popular Native charting library [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) and [Charts](https://github.com/danielgindi/Charts)
 
